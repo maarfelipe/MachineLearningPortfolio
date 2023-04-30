@@ -20,3 +20,10 @@ Below are all the columns from the dataset I’m using here:
 
 # Project Details
 
+This project uses several technologies to develop an online payments fraud detection model. The primary programming language used is Python, with the help of various libraries such as Pandas, NumPy, Plotly Express, Seaborn, and Matplotlib for data processing, analysis, and visualization. The Scikit-Learn library is used for implementing the Decision Tree Classifier algorithm, which is used to build the fraud detection model.
+
+The project follows a step-by-step approach, starting with importing the necessary libraries, loading the dataset, and performing exploratory data analysis to gain insights into the data. This includes visualizing the distribution of transaction types, transforming categorical features into numerical, checking the correlation between the features of the data, and splitting the data into training and test sets.
+
+The next step involves training the fraud detection model using the Decision Tree Classifier algorithm. The model is trained on the training set, and its accuracy is evaluated using the test set. The model is then used to classify whether a transaction is a fraud or not by feeding the transaction features into the model.
+
+This solution has a wide range of real-world applications, as online payments are becoming more prevalent. Fraudulent transactions are a major concern in the online payments industry, and this model can help identify fraudulent transactions and prevent financial losses. For example, financial institutions can use this model to monitor transactions in real-time and flag any suspicious transactions for further investigation. This can help prevent fraud and improve the overall security of online payments.
