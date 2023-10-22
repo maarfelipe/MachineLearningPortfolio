@@ -1,13 +1,27 @@
-# MachineLearningPortifolio
+# Machine Learning Portfolio
 
-Welcome to my machine learning portfolio repository!
+Welcome to my Machine Learning Portfolio! This portfolio showcases my ongoing work and projects related to data science, machine learning and artificial intelligence.
 
-Here you will find a collection of projects that I have completed in the field of machine learning. Each project has been designed to showcase my skills in data analysis, statistical modeling, and predictive modeling.
+## Projects
 
-Each project in this repository has been carefully designed and developed to demonstrate various aspects of machine learning, including data cleaning and preprocessing, model selection and tuning, and performance evaluation, ranging from beginner-level to advanced, covering a wide range of topics, such as regression, classification, clustering, natural language processing, and deep learning. Additionally, I have included detailed documentation on each project, including the data sources used, the techniques employed, and the results obtained
+### 1. [Hotel Reviews Sentiment Analysis](https://github.com/maarfelipe/hotel_reviews_sentiment_analysis)
 
-I have worked with a variety of datasets, including industry-standard datasets, publicly available datasets, and custom-made datasets, to demonstrate my ability to work with different data types and sizes. 
+- **Project Status**: In Progress
+- **Date**: October, 2023
+- **Description**: In this project, I developed a deep learning model using Convolutional Neural Networks (CNNs) to classify images into various categories. The model achieved an accuracy of 95% on a challenging image dataset.
 
-I hope that this portfolio will provide you with a comprehensive understanding of my skills in machine learning and that it will serve as a valuable resource for anyone interested in learning more about machine learning.
+```
+Stay tuned for more exciting machine learning projects that I'll be adding to this portfolio in the near future!
+```
 
-Thank you for visiting my repository, and I look forward to hearing from you!
+## About Me
+
+I have a deep passion for artificial intelligence and machine learning. It's incredible how these technologies can be applied to solve real-world problems and make our lives easier. Python has been my primary programming language for machine learning, given its rich ecosystem of libraries, and I've extensively used popular libraries such Pandas and NumPy for data manipulation and analysis, Matplotlib and Plotly to visualization/
+
+Machine learning allows me to explore and create intelligent systems that can learn and adapt from data. My goal is to build models that are not only accurate but also ethically sound, taking into consideration fairness and transparency in AI systems. I continue to learn and keep up with the latest advancements in machine learning to create cutting-edge solutions.
+
+## Contact
+
+If you're interested in collaborating, sharing feedback, or simply connecting, please don't hesitate to reach out to me through my [LinkedIn](https://www.linkedin.com/in/maarfelipe/).
+
+Thank you for visiting my Machine Learning Portfolio!
