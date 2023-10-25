@@ -6,9 +6,9 @@ Welcome to my Machine Learning Portfolio! This portfolio showcases my ongoing wo
 
 ### 1. [Hotel Reviews Sentiment Analysis](https://github.com/maarfelipe/hotel_reviews_sentiment_analysis)
 
-- **Project Status**: In Progress
+- **Project Status**: Completed
 - **Date**: October, 2023
-- **Description**: In this project, I developed a deep learning model using Convolutional Neural Networks (CNNs) to classify images into various categories. The model achieved an accuracy of 95% on a challenging image dataset.
+- **Description**: In this project, I analyzed and visualized a hotel reviews dataset, performed sentiment analysis, and presented the results, shedding light on customer sentiment and review ratings.
 
 ```
 Stay tuned for more exciting machine learning projects that I'll be adding to this portfolio in the near future!
