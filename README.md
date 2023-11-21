@@ -9,7 +9,12 @@ Welcome to my Machine Learning Portfolio! This portfolio showcases my ongoing wo
 - **Date**: October, 2023
 - **Description**: In this project, I analyzed and visualized a hotel reviews dataset, performed sentiment analysis, and presented the results, shedding light on customer sentiment and review ratings.
 
-### 2. [Credit Score Classification](https://github.com/maarfelipe/credit_score_classification)
+### 1. [Skin Cancer Detection](https://github.com/maarfelipe/skin_cancer_detection)
+- **Project Status**: Completed
+- **Date**: October, 2023
+- **Description**: I have developed a machine learning model for analyzing skin lesion images. The code is proficient in recognizing and categorizing lesions into seven distinct types, accompanied by concise explanations. Additionally, the model provides information regarding whether the identified lesion exhibits cancerous characteristics.
+  
+### 3. [Credit Score Classification](https://github.com/maarfelipe/credit_score_classification)
 - **Project Status**: In Progress
 - **Date**: October, 2023
 - **Description**: I used Python and machine learning to classify credit scores. I explored the impact of financial attributes such as income, debt, and payment history on creditworthiness.
